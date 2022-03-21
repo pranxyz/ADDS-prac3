@@ -10,6 +10,11 @@ using namespace std;
 Tournament::Tournament() {
 }
 
+
+Player * run(array<Player *, 8>  competitors) {
+}
+
+   
 Tournament::~Tournament() {
 }
 
