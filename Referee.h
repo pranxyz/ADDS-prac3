@@ -1,5 +1,5 @@
-#ifndef REFEREE_H
-#define REFEREE_H
+#ifndef _REFEREE_H
+#define _REFEREE_H
 #include <string>
 
 #include "Player.h"
