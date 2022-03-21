@@ -1,5 +1,5 @@
-#ifndef FistfullODollars_H
-#define FistfullODollars_H
+#ifndef _FISTFULLODOLLARS_H
+#define _FISTFULLODOLLARS_H
 #include <string>
 #include "Player.h"
 
