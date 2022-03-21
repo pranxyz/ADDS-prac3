@@ -1,17 +1,17 @@
 #include <iostream>
 #include <string>
 #include <sstream>
-#include "Player.h"
-#include "Toolbox.h"
-#include "Bureaucrat.h"
-#include "Avalanche.h"
-#include "Crescendo.h"
-#include "PaperDoll.h"
-#include "FistfullODollars.h"
-#include "Tournament.h"
-#include "Referee.h"
-#include "RandomComputer.h"
-#include "Human.h"
+#include "Player.cpp"
+#include "Toolbox.cpp"
+#include "Bureaucrat.cpp"
+#include "Avalanche.cpp"
+#include "Crescendo.cpp"
+#include "PaperDoll.cpp"
+#include "FistfullODollars.cpp"
+#include "Tournament.cpp"
+#include "Referee.cpp"
+#include "RandomComputer.cpp"
+#include "Human.cpp"
 using namespace std;
 
 int main()
