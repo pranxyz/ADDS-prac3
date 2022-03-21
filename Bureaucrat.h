@@ -1,5 +1,5 @@
-#ifndef Bureaucrat_H
-#define Bureaucrat_H
+#ifndef _BUREAUCRAT_H
+#define _BUREAUCRAT_H
 #include <string>
 #include "Player.h"
 
