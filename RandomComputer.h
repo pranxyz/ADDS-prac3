@@ -1,5 +1,5 @@
-#ifndef RandomComputer_H
-#define RandomComputer_H
+#ifndef _RANDOMCOMPUTER_H
+#define _RANDOMCOMPUTER_H
 #include <string>
 #include "Player.h"
 #include <vector>
