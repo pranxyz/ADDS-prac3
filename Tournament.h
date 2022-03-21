@@ -1,5 +1,5 @@
-#ifndef TOURNAMENT_H
-#define TOURNAMENT_H
+#ifndef _TOURNAMENT_H
+#define _TOURNAMENT_H
 #include <string>
 #include <vector>
 #include "Player.h"
