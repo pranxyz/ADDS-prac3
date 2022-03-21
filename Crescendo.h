@@ -1,5 +1,5 @@
-#ifndef Crescendo_H
-#define Crescendo_H
+#ifndef _CRESCENDO_H
+#define _CRESCENDO_H
 #include <string>
 #include "Player.h"
 
