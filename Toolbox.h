@@ -1,5 +1,5 @@
-#ifndef TOOLBOX_H
-#define TOOLBOX_H
+#ifndef _TOOLBOX_H
+#define _TOOLBOX_H
 #include <string>
 #include "Player.h"
 
