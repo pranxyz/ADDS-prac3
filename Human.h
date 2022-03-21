@@ -5,15 +5,4 @@
 #include <vector>
 
 
-class Human : public Player {
-   public:
-       Human();
-       std::string performMove();
-       ~Human();
-
-   private:
-
-
-};
-
 #endif
